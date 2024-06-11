@@ -1,0 +1,4 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="end_call_floating_margin">26dp</dimen>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+<!--    <style name="MyActionBar" parent="Widget.AppCompat.ActionBar.Solid">-->
+<!--        <item name="displayOptions">useLogo|showHome</item>-->
+<!--       &lt;!&ndash; <item name="logo">@drawable/home_page_logo</item>-->
+<!--        <item name="background">@color/actionbar_background_color</item>-->
+<!--        <item name="textColor">@color/white</item>-->
+<!--        <item name="titleTextStyle">@style/MyActionBarTextStyle</item>&ndash;&gt;-->
+<!--    </style>-->
+    <!-- Base application theme. -->
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--    </style>-->
+
+<!--    <style name="AppTheme.Settings" parent="AppTheme">-->
+<!--        <item name="colorAccent">@color/colorPrimary</item>-->
+<!--        <item name="displayOptions">showHome|showTitle|homeAsUp</item>-->
+<!--        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
+<!--    </style>-->
+
+</resources>
